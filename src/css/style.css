@@ -1,0 +1,17 @@
+.wrapper{ width: 1000px; padding: 50px;}
+.header{}
+.logo{}
+.mainmenu{}
+.menu-list{}
+.menu-item{display: inline;}
+.lang-list{position: absolute; top: 20px; left: 50px;}
+.lang-item{display: inline}
+.auth{position: absolute; top: 20px; right: 150px; }
+.auth-link signin{}
+.auth-link{}
+.content{}
+.promo{}
+.article{}
+.footer{position: absolute; left: 50px; }
+.footermenu{display: inline}
+body{background-image: url(images/bg_body.jpg);}
